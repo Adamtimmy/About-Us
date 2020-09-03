@@ -18,7 +18,7 @@
 
   <p> We are Chinese but we live in America. We are not ABC(america born chinese)!
 
- style = " color: red; ">We are also not very active on scratch due to school. </color>
+ style = " color : red; ">We are also not very active on scratch due to school. </color>
 </p>
 
  
