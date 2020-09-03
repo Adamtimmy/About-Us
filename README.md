@@ -12,7 +12,7 @@
   <body> <p>We are twin sisters who learns, and goes on scratch. Since scratch is getting a bit easy, we don't go there often.</p>
   
   <p>We are on...</p>
-  Git hub: <a href= "https://github.com/Adamtimmy">Adamtimmy</a>
+  Git hub: <a href= "https://github.com/Adamtimmy">AnnaTina101</a>
      
 
   <p> We are chinese but we live in america. We are not ABC(america born chinese)!</p>
