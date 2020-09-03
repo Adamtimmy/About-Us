@@ -14,6 +14,9 @@
      
 
   <p> We are chinese but we live in america. We are not ABC(america born chinese)!</p>
+  <ul><li>Coding <li>
+  <li>Reading<li>
+  </ul>
 
 </body>
 </html>
