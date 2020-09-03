@@ -13,6 +13,7 @@
   
   <p>We are on...</p>
   Git hub: <a href= "https://github.com/Annatina101">AnnaTina101</a>
+  Scratch:  <a href= "https://scratch.mit.edu/users/AdamTimmy/">Adamtimmy, otherwise known as "AnnaTina"</a>
      
 
   <p> We are chinese but we live in america. We are not ABC(america born chinese)!</p>
