@@ -18,7 +18,7 @@
 
   <p> We are Chinese but we live in America. We are not ABC(america born chinese)!
 
-   We are also <strong>not very active on scratch</strong> due to school.
+   We are also <bold>not very active on scratch</bold> due to school.
 </p>
 
  
