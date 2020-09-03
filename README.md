@@ -11,7 +11,8 @@
     </head>
   <body> We are twin sisters who learns, and goes on scratch. Since scratch is getting a bit easy, we don't go there often.
   <li> Coding,
-       Reading
+       Reading,
+       Html,
 </li>
 </body>
 
