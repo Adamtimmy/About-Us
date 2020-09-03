@@ -10,10 +10,10 @@
 <h6> Read here to find who we are! </h6>
     </head>
   <body> We are twin sisters who learns, and goes on scratch. Since scratch is getting a bit easy, we don't go there often.
-  <li> Coding,
-       Reading,
-       Html,
-</li>
+  <li> Coding<li>
+      <li> Reading<li>
+       <li>Html<li>
+
 </body>
 
 
