@@ -16,7 +16,7 @@
   Scratch:  <a href= "https://scratch.mit.edu/users/AdamTimmy/">Adamtimmy, otherwise known as "AnnaTina"</a>
      
 
-  <p> We are chinese but we live in america. We are not ABC(america born chinese)!</p>
+  <p> We are Chinese but we live in America. We are not ABC(america born chinese)!</p>
 
  
 
