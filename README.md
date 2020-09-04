@@ -15,8 +15,8 @@
   Git hub: <a href= "https://github.com/Annatina101">AnnaTina101</a><br>
   Scratch:  <a href= "https://scratch.mit.edu/users/AdamTimmy/"> Adamtimmy </a>
   <p> We know how to speak: </p>
-  <p>汉语</p>
-    <p>English</p>
+  <p>1. 汉语</p>
+    <p>2. English</p>
      
 
   <p> We are Chinese but we live in America. We are not ABC(america born chinese)!
