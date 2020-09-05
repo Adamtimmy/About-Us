@@ -17,6 +17,7 @@
   <p> We know how to speak: </p>
   <p>1. 汉语</p>
     <p>2. English</p>
+    <p>3. And are learning more</p>
      
 
   <p> We are Chinese but we live in America. We are not ABC(america born chinese)!
