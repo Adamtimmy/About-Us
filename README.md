@@ -20,7 +20,7 @@
     <p>3. And are learning more</p>
      
 
-  <p> We are Chinese but we live in America. We are not ABC(america born chinese)!
+  <p> We are Chinese but we live in America. We are not ABC(america born chinese)!</p>
 
  <p style="color : red; ">We are also not very active on <button>scratch</button> due to school. </p>
 
