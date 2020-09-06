@@ -7,9 +7,9 @@
 
      
 <h1>About Us</h1>
-<h6> Read here to find who we are! </h6>
+<h4> Read here to find who we are! </h4>
     </head>
-  <body> <p>We are twin sisters who learns, and goes on scratch. Since scratch is getting a bit easy, we don't go there often.</p>
+  <body> <p>We are twin sisters who learns, and goes on scratch. Since scratch is getting a bit easy for coding, we don't go there often.</p>
   
   <p>We are on...</p>
   Git hub: <a href= "https://github.com/Adamtimmy">Adamtimmy</a><br>
