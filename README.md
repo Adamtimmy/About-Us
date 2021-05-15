@@ -21,7 +21,7 @@
   <p> We know how to speak: </p>
   <p> -  汉语</p>
     <p> - English</p>
-    <p>3. And are learning more languages such as:</p><br>
+    <p>And are learning more languages such as:</p><br>
     <p>- Francais (French) </p> <br>
     <p>- Espanol (Spanish) </p>
      
