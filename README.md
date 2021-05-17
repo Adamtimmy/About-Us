@@ -7,7 +7,7 @@
 
      
 <h1>About Us</h1>
-<h4> Read here to find who we are! </h4>
+<h4> Read here to find who we are! Say hello to us please!</h4>
     </head>
   <body> <p>Hello! We are twin sisters who learns, and goes on scratch. Since scratch is getting a bit easy for coding, we don't go there often. School has started, resulting less time for other hobbies.</p>
   <p> We are Chinese but we live in America. We are not ABC(america born chinese)!</p>
