@@ -28,7 +28,7 @@
 
 
 
- <p style="color : red; ">We are also not very active on <button>scratch</button> due to school. </p>
+ <p style="color : red; ">We are also not very active on <a href="https://scratch.mit.edu/"<button>scratch</button></a> due to school. </p>
 
 
  
