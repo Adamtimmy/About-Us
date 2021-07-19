@@ -13,7 +13,7 @@
   <p> We are Chinese but we live in America. We are not ABC(america born chinese)!</p>
   <p>Please feel free to talk to us- Not only about Scratch! </p> <br>
   <h4> Talk to Us! </h4>
-  <p>What other programming languages do you learn? :D Do you have a scratch account too?</p> <br><p>Start tqlking to us on Gitter!</p>
+  <p>What other programming languages do you learn? :D Do you have a scratch account too?</p> <br><p>Start talking to us on Gitter!</p>
   
   <h4>We are on...</h4>
   Git hub: <a href= "https://github.com/Adamtimmy">Adamtimmy</a><br>
